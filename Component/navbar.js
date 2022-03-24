@@ -29,11 +29,6 @@ const Navbar= ()=>(
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link href="/prueba">
-                        <a className="nav-link">Prueba</a>
-                        </Link>
-                    </li>
-                    <li className="nav-item">
                         <Link href="/next">
                         <a className="nav-link">Next</a>
                         </Link>
